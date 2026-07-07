@@ -1,0 +1,1 @@
+- [Terraform baseline gaps](terraform-baseline-gaps.md) — recurring open security gaps in terraform/ (encryption, logging, headers, backend, .gitignore) as of 2026-07-07

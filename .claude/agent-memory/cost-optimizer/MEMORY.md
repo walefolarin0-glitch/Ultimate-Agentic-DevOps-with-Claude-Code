@@ -1,0 +1,5 @@
+- [Portfolio Site S3 Versioning Issue](portfolio-s3-versioning.md) — S3 versioning enabled on static site bucket, accumulates old versions from CI/CD deployments
+- [CloudFront Price Class Downgrade](cloudfront-price-class.md) — PriceClass_200 can be downgraded to PriceClass_100 for static site
+- [S3 Storage Class Optimization](s3-storage-optimization.md) — Using STANDARD storage, should switch to INTELLIGENT_TIERING
+- [Missing Lifecycle Policies](s3-lifecycle-missing.md) — No lifecycle rules configured for old object versions or cleanup
+- [Terraform State Backend](tf-backend-status.md) — Backend currently disabled, should enable with separate state bucket when ready
