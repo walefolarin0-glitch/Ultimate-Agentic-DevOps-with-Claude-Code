@@ -2,3 +2,6 @@
 *.tfstate
 *.tfstate.*
 !.terraform.lock.hcl
+
+*.claude/settings.local.json
+*settings.local.json
